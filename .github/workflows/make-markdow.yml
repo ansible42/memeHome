@@ -1,5 +1,4 @@
 name: .NET
-theme: jekyll-theme-minimal
 
 on:
   push:
