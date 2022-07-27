@@ -18,7 +18,7 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Run
-      run: dotnet run /src/MemeToMarkdown -- /content https://github.com/ansible42/memeHome/blob/main/content 
+      run: dotnet run --project src/MemeToMarkdown/MemeToMarkdown/MemeToMarkdown.csproj -- --scan-folder ./content --repo-location https://github.com/ansible42/memeHome/blob/main/content
 
 
 
