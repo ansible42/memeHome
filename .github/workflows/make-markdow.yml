@@ -17,13 +17,9 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
-    - name: Restore dependencies
-      run: dotnet restore ../../src/MemeToMarkdown/MemeToMarkdown.sln
-    - name: Build
-      run: dotnet build ../../src/MemeToMarkdown/MemeToMarkdown.sln --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal 
-    
+    - name: Run
+      run: dotnet run /src/MemeToMarkdown -- /content https://github.com/ansible42/memeHome/blob/main/content 
+
 
 
 
