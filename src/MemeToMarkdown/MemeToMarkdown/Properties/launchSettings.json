@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MemeToMarkdown": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

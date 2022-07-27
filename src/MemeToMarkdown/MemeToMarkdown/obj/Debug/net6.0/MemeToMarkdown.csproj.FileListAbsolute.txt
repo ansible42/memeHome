@@ -1,0 +1,15 @@
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.csproj.AssemblyReference.cache
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.AssemblyInfoInputs.cache
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.AssemblyInfo.cs
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\bin\Debug\net6.0\MemeToMarkdown.exe
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\bin\Debug\net6.0\MemeToMarkdown.deps.json
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\bin\Debug\net6.0\MemeToMarkdown.runtimeconfig.json
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\bin\Debug\net6.0\MemeToMarkdown.dll
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\bin\Debug\net6.0\MemeToMarkdown.pdb
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.dll
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\refint\MemeToMarkdown.dll
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.pdb
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\MemeToMarkdown.genruntimeconfig.cache
+C:\Users\taylo\Projects\memeHome\src\MemeToMarkdown\MemeToMarkdown\obj\Debug\net6.0\ref\MemeToMarkdown.dll
