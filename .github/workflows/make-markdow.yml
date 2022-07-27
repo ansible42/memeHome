@@ -1,4 +1,5 @@
 name: .NET
+theme: jekyll-theme-minimal
 
 on:
   push:
@@ -23,7 +24,7 @@ jobs:
       run: dotnet build ../../src/MemeToMarkdown/MemeToMarkdown.sln --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal 
-    - run: echo "Test"
+    
 
 
 
