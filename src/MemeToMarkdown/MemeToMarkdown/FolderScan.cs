@@ -1,4 +1,4 @@
-﻿
+﻿//This class is a helper used to scan a folder and return a list of files that my be multiple patterns
 public class FolderScan
 {
 	private string _folder { get; set; }

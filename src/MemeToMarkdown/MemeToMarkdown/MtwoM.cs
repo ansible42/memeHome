@@ -1,4 +1,4 @@
-﻿
+﻿// This class is intented to be a helper for prgroramatic generation of markdown files.  
 public class MtwoM
 {
     private string _relpath { get; set; }

@@ -34,6 +34,7 @@ internal class Program
             markdownFile = $"{markdownFile} \n \n {md.CreateImageBlock(item)} ";
         }
         Console.WriteLine($"md written to {outputFilepath}");
+        Directory.CreateDirectory(System.IO.Path.GetDirectoryName(outputFilepath));
         File.WriteAllText(outputFilepath, markdownFile);
     }
 }

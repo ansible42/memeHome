@@ -3,7 +3,7 @@
     "MemeToMarkdown": {
       "commandName": "Project",
       "workingDirectory": "$(SolutionDir)",
-      "commandLineArgs": "--scan-folder ../../content --repo-location https://github.com/ansible42/memeHome/blob/main/content"
+      "commandLineArgs": "--scan-folder ../../content --repo-location https://github.com/ansible42/memeHome/blob/main/content --output-file build/index.md"
     }
   }
 }
