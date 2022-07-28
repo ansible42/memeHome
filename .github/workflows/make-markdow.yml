@@ -18,9 +18,15 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Run
-      run: dotnet run --project src/MemeToMarkdown/MemeToMarkdown/MemeToMarkdown.csproj -- --scan-folder content --repo-location https://github.com/ansible42/memeHome/blob/main/content
+      run: dotnet run --project src/MemeToMarkdown/MemeToMarkdown/MemeToMarkdown.csproj -- --scan-folder content --repo-location https://github.com/ansible42/memeHome/blob/main/content --outputFile build/index.md
 
-
+    - name: Deploy
+      uses: moodiest/push-to-branch-action@develop
+      env:
+        REPO: git@github.com:owner/repo.git
+        BRANCH: gh-pages
+        FOLDER: build
+        SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
 
 
 
