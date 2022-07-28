@@ -9,7 +9,7 @@ public class MtwoM
 
     string CreateMarkdownLink(string Image)
     {
-        return $"![{Image}](/../{this._relpath}/{Image})"; ;
+        return $"![{Image}]({this._relpath}/{Image})"; ;
     }
     public string CreateImageBlock(string Image)
     {
