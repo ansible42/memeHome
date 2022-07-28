@@ -27,13 +27,14 @@ internal class Program
 
         MtwoM md = new MtwoM(repoURL);
         string markdownFile = "# Fun Memes for code reviews \n \n";
+        Console.WriteLine("Files found to write");
         foreach (var item in lit)
         {
             Console.WriteLine($"{item}");
             markdownFile = $"{markdownFile} \n \n {md.CreateImageBlock(item)} ";
         }
-
-        File.WriteAllText("test.md", markdownFile);
+        Console.WriteLine($"md written to {outputFilepath}");
+        File.WriteAllText(outputFilepath, markdownFile);
     }
 }
 
