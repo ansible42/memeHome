@@ -20,7 +20,6 @@ jobs:
     - name: Run
       run: 
         - dotnet run --project src/MemeToMarkdown/MemeToMarkdown/MemeToMarkdown.csproj -- --scan-folder content --repo-location https://raw.githubusercontent.com/ansible42/memeHome/main/content --output-file build/index.md
-        - cp 
     # Deploy to local repo
     - name: Deploy
       uses: moodiest/push-to-branch-action@develop
