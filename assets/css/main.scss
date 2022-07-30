@@ -1,0 +1,16 @@
+---
+---
+
+@import "main";
+
+
+$themes: (
+  darkTheme: (
+    'text-color': white,
+    'bg-color': #424242
+  ),
+  lightTheme: (
+    'text-color': black,
+    'bg-color': #f5f5f5
+  )
+);
