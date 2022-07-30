@@ -26,10 +26,6 @@
  
  ```![In production.jpg](https://raw.githubusercontent.com/ansible42/memeHome/main/content/In production.jpg)```  
  
- ![68bfvo.jpg](https://raw.githubusercontent.com/ansible42/memeHome/main/content/68bfvo.jpg)
- 
- ```![68bfvo.jpg](https://raw.githubusercontent.com/ansible42/memeHome/main/content/68bfvo.jpg)```  
- 
  ![The Way.jpg](https://raw.githubusercontent.com/ansible42/memeHome/main/content/The Way.jpg)
  
  ```![The Way.jpg](https://raw.githubusercontent.com/ansible42/memeHome/main/content/The Way.jpg)```  
@@ -42,10 +38,6 @@
  
  ```![off and on.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/off and on.gif)```  
  
- ![2sWMb.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/2sWMb.gif)
- 
- ```![2sWMb.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/2sWMb.gif)```  
- 
  ![ifyoucouldgoahead.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/ifyoucouldgoahead.gif)
  
  ```![ifyoucouldgoahead.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/ifyoucouldgoahead.gif)```  
@@ -57,14 +49,6 @@
  ![WhatDoYouDoHere.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/WhatDoYouDoHere.gif)
  
  ```![WhatDoYouDoHere.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/WhatDoYouDoHere.gif)```  
- 
- ![ETS Testing.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/ETS Testing.gif)
- 
- ```![ETS Testing.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/ETS Testing.gif)```  
- 
- ![say hello.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/say hello.gif)
- 
- ```![say hello.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/say hello.gif)```  
  
  ![ImAPeoplePerson.gif](https://raw.githubusercontent.com/ansible42/memeHome/main/content/ImAPeoplePerson.gif)
  
