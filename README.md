@@ -1,5 +1,6 @@
 # memeHome
-Learning playground to programticly generate md files from files in folders in CI workflow
+
+Learning playground for me to get to know the github actions and how to use static page generators. Also just funny and a good link to share with other super-nerds. 
 
 
 ## Design 
