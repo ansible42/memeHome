@@ -11,10 +11,14 @@ public class MtwoM
     {
         return $"![{Image}]({this._relpath}/{Image})"; ;
     }
+    string CreateMarkdownPreview(string Image, int width)
+    {
+        return $"![{Image}]({this._relpath}/{Image} =x{width })"; ;
+    }
     public string CreateImageBlock(string Image)
     {
-        string ImageLink = CreateMarkdownLink(Image);
-        return $"{ImageLink}\n \n ```{ImageLink}```";
+
+        return $"{CreateMarkdownPreview(Image,250)}\n \n ```{CreateMarkdownLink(Image)}```";
     }
 }
 
