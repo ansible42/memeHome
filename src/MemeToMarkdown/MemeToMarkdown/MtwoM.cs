@@ -13,7 +13,7 @@ public class MtwoM
     }
     string CreateMarkdownPreview(string Image, int width)
     {
-        return $"![{Image}]({this._relpath}/{Image} =x{width })"; ;
+        return $"<img src=\"{Image}\" width=\"{width}\">"; ;
     }
     public string CreateImageBlock(string Image)
     {
