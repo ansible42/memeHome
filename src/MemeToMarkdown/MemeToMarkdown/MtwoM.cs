@@ -7,18 +7,22 @@ public class MtwoM
        this._relpath = relpath;
     }
 
-    string CreateMarkdownLink(string Image)
+    string CreateMarkdownLink(string relPath)
     {
-        return $"![{Image}]({this._relpath}/{Image})"; ;
+        return $"![{FullImagePath(relPath)}}]({FullImagePath(relPath)})"; ;
     }
-    string CreateMarkdownPreview(string Image, int width)
+    string FullImagePath(string relPath)
     {
-        return $"<img src=\"{CreateMarkdownLink(string Image)}\" width=\"{width}\">"; ;
+        return $"{this._relpath}/{relPath}";
+    }
+    string CreateImagePreview(string relPath, int width)
+    {
+        return $"<img src=\"{FullImagePath(relPath)}\" width=\"{width}\">"; ;
     }
     public string CreateImageBlock(string Image)
     {
 
-        return $"{CreateMarkdownPreview(Image,250)}\n \n ```{CreateMarkdownLink(Image)}```";
+        return $"{CreateImagePreview(Image,250)}\n \n ```{CreateMarkdownLink(Image)}```";
     }
 }
 
