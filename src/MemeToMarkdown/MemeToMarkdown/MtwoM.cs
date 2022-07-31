@@ -9,7 +9,7 @@ public class MtwoM
 
     string CreateMarkdownLink(string relPath)
     {
-        return $"![{FullImagePath(relPath)}}]({FullImagePath(relPath)})"; ;
+        return $"![{FullImagePath(relPath)}]({FullImagePath(relPath)})"; ;
     }
     string FullImagePath(string relPath)
     {
